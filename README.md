@@ -10,7 +10,7 @@ Technical Content Developer
 * Managed a documentation team as Project Manager, ensuring efficient project management and collaboration with different cross functional business units.
 * Authored complex technical documents, including datasheet, user guide, evaluation kit guide, release notes and readme files with strong attention to content accuracy, branding, legal, consistency, and format in accordance with the internal style guide.
 * Developed key strategic plan for documentation workflow improvement, resulting in enhanced customer satisfaction.
-* Implemented process improvement to enhance the documentation quality, efficiency, user experience.
+* Implemented process improvement to enhance the documentation quality, efficiency, and user experience.
 ### Applied Materials  |   Oct 2022 - Oct 2023
 *Lead Technical Writer*
 * Led as Program Manager for 33 business units documentation requirements across Applied materials major divisions for enhancing the customer installation responsibilities in Site and System Preparation Specification (SSPS).
