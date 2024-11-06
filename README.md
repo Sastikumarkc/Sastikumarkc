@@ -13,7 +13,7 @@ Technical Content Developer
 * Implemented process improvement to enhance the documentation quality, efficiency, and user experience.
 ### Applied Materials  |   Oct 2022 - Oct 2023
 *Lead Technical Writer*
-* Led as Program Manager for 33 business units documentation requirements across Applied materials major divisions for enhancing the customer installation responsibilities in Site and System Preparation Specification (SSPS).
+* Led as Program Lead for 33 business units documentation requirements across Applied materials major divisions for enhancing the customer installation responsibilities in Site and System Preparation Specification (SSPS).
 * Spearheaded 3 successful documentation teams for New Product Introduction (NPI) and legacy products, documents include Safety manual, SSPS, Operation manual, Maintenance manual, and BKMs.
 * Created the metrics demonstrating the success of each business unit's project status to the management.
 * Directed the daily stand-up meeting, bi-weekly stakeholder’s meeting, 1:1 meeting, and supported the technical writer’s quarterly meeting, all hands India meeting, and DITA XML meeting.
