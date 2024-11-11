@@ -54,10 +54,10 @@ Technical Content Developer
     <li>Adobe FrameMaker</li>
     <li>MadCap Flare</li>
     <li>PTC Arbortext Editor</li>
+    <li>SnagIt</li>
     <li>Jira</li>
     <li>Confluence</li>
     <li>GitHub</li>
-    <li>Visual Studio Code</li>
     <li>Markdown</li>
     <li>MS Office Suite</li>
     <li>SDL Tridion CMS</li>
