@@ -1,5 +1,5 @@
 # SASTIKUMAR
-Technical Content Developer
+Technical Writer
 ## Profile
 * A seasoned technical documentation leader with an MBA degree and over 16 years of technical writing experience in diverse domains including IT - software, semiconductor, mechanical and aviation.
 * Exceptional project management and leadership capabilities.
