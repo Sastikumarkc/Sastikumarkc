@@ -8,8 +8,8 @@ Manager, Technical Publication
 ### L&T Semiconductor Technilogoes    |    Apr 2025 - Present
 *Lead Technical Writer*
 * Managed a documentation team and defined the ground rules for Technical Publication such as document templates, workflow, process,  lead-time, and content structure/reuse.
-* Enabled Jira and confluence for entire organization (LTSCT)..
-* Administrated Atlassian’s Jira and Confluence for defining the Projects, Scrum/Kanban board, Dashboard, Work item, Priority, custom fields, Screens, Schemes, workflow, Permission, notification, and security..
+* Enabled Jira and confluence for entire organization (LTSCT).
+* Administrated Atlassian’s Jira and Confluence for defining the Projects, Scrum/Kanban board, Dashboard, Work item, Priority, custom fields, Screens, Schemes, workflow, Permission, notification, and security.
 ### Infineon Technologies    |    Oct 2023 - Apr 2025
 *Staff Specialist Technical Writer*
 * Managed a documentation team as Project Manager, ensuring efficient project management and collaboration with different cross functional business units.
