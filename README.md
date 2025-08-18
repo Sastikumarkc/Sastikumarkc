@@ -9,7 +9,7 @@ Manager, Technical Publication
 *Lead Technical Writer*
 * Managed a documentation team and defined the ground rules for Technical Publication such as document templates, workflow, process,  lead-time, and content structure/reuse.
 * Enabled Jira and confluence for entire organization (LTSCT).
-* Administrated Atlassian’s Jira and Confluence for defining the Projects, Scrum/Kanban board, Dashboard, Work item, Priority, custom fields, Screens, Schemes, workflow, Permission, notification, and security.
+* Administrated Atlassian’s Jira and Confluence for defining the Projects, Scrum/Kanban board, Dashboard, Work item, Priority, Custom fields, Screens, Schemes, Workflow, Permission, notification, and security.
 ### Infineon Technologies    |    Oct 2023 - Apr 2025
 *Staff Specialist Technical Writer*
 * Managed a documentation team as Project Manager, ensuring efficient project management and collaboration with different cross functional business units.
@@ -60,7 +60,7 @@ Manager, Technical Publication
     <li>MadCap Flare</li>
     <li>PTC Arbortext Editor</li>
     <li>SnagIt</li>
-    <li>Jira</li>
+    <li>Jira Administration</li>
     <li>Confluence</li>
     <li>GitHub</li>
     <li>Markdown</li>
