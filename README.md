@@ -1,11 +1,16 @@
 # SASTIKUMAR
-Technical Writer
+Manger, Technical Publication
 ## Profile
-* A seasoned technical documentation leader with an MBA degree and over 16 years of technical writing experience in diverse domains including IT - software, semiconductor, mechanical and aviation.
+* A seasoned technical documentation leader with an MBA degree and over 17 years of technical writing experience in diverse domains including IT - software, semiconductor, mechanical and aviation.
 * Exceptional project management and leadership capabilities.
 * Proficient in single-source authoring, topic-based writing, and content management system with a robust knowledge of DDLC, SDLC, Scrum, and Agile methodologies.
 ## Work Experience
-### Infineon Technologies    |    Oct 2023 - Present
+### L&T Semiconductor Technilogoes    |    Apr 2023 - Present
+*Lead Technical Writer*
+* Managed a documentation team and defined the ground rules for Technical Publication such as document templates, workflow, process,  lead-time, and content structure/reuse.
+* Enabled Jira and confluence for entire organization (LTSCT)..
+* Administrated Atlassian’s Jira and Confluence for defining the Projects, Scrum/Kanban board, Dashboard, Work item, Priority, custom fields, Screens, Schemes, workflow, Permission, notification, and security..
+### Infineon Technologies    |    Oct 2023 - Apr 2025
 *Staff Specialist Technical Writer*
 * Managed a documentation team as Project Manager, ensuring efficient project management and collaboration with different cross functional business units.
 * Authored complex technical documents, including datasheet, user guide, evaluation kit guide, release notes and readme files with strong attention to content accuracy, branding, legal, consistency, and format in accordance with the internal style guide.
