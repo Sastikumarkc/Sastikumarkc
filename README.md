@@ -5,7 +5,7 @@ Manager, Technical Publication
 * Exceptional project management and leadership capabilities.
 * Proficient in single-source authoring, topic-based writing, and content management system with a robust knowledge of DDLC, SDLC, Scrum, and Agile methodologies.
 ## Work Experience
-### L&T Semiconductor Technilogoes    |    Apr 2023 - Present
+### L&T Semiconductor Technilogoes    |    Apr 2025 - Present
 *Lead Technical Writer*
 * Managed a documentation team and defined the ground rules for Technical Publication such as document templates, workflow, process,  lead-time, and content structure/reuse.
 * Enabled Jira and confluence for entire organization (LTSCT)..
