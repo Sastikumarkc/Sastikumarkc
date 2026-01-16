@@ -95,6 +95,7 @@ Manager, Technical Publication
     <li>Spot award</li>
     <li>Extra mile award</li>
     <li>‘O’ infinity award</li>
+    <li>Growth Catalyst award</li>
     <li>100% Project-Customer Satisfaction (P-CSAT) award</li>
   </ul>
 </details>
