@@ -101,10 +101,9 @@ Manager, Technical Publication
 <details><summary><b>Certification</b></summary>
   <ul>
     <li>Atlassian Certified in Jira Software Essentials</li>
-    <li>Registered Scrum Basics&trade</li>
+    <li>Registered Scrum Basics™</li>
     <li>Learn API Technical Writing: JSON and XML for Writers</li>
     <li>Learn API Technical Writing2: REST for Writers</li>li>
-    <li></li>
   </ul>
 </details>
 <details><summary><b>Languages</b></summary>
