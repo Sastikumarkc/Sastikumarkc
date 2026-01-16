@@ -100,7 +100,11 @@ Manager, Technical Publication
 </details>
 <details><summary><b>Certification</b></summary>
   <ul>
-    <li>API Technical Writing: JSON and XML for writers and REST from UDEMY, Inc</li>
+    <li>Atlassian Certified in Jira Software Essentials</li>
+    <li>Registered Scrum Basics&trade</li>
+    <li>Learn API Technical Writing: JSON and XML for Writers</li>
+    <li>Learn API Technical Writing2: REST for Writers</li>li>
+    <li></li>
   </ul>
 </details>
 <details><summary><b>Languages</b></summary>
